@@ -1,5 +1,6 @@
 # ViennaCityTrees
-this is the code for the **ShinyApp ViennaCityTrees**.  
+This is the code for the **ShinyApp ViennaCityTrees**.  
+  
 The app can be found here:
 https://erikpinter.shinyapps.io/ViennaCityTrees
   
